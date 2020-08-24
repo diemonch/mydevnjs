@@ -6,6 +6,7 @@ pipeline {
           
                 echo 'test build test'
                 echo 'test again test with changes'
+                echo 'commit on master'
             }
         }
     }
