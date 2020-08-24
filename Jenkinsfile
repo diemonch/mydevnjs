@@ -5,7 +5,7 @@ pipeline {
             steps {
           
                 echo 'test build test'
-                echo 'test again'
+                echo 'test again te'
             }
         }
     }
